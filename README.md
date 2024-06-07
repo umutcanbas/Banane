@@ -1,8 +1,8 @@
-## Banane
+# Banane
 
 
 # Technology
-## React Native
+- React Native
 
 # Tools
 
